@@ -16,5 +16,10 @@ Built a classification model using the Breast Cancer dataset with feature select
 ### ✅ Task 3 – Dashboard Development
 Created an interactive Power BI dashboard using Sample Superstore dataset.
 
+📁 `superstore_dashboard.pbix` – Original Power BI file  
+📷 `dashboard_preview.png` – Preview of the dashboard (see below)
+
+![Dashboard Preview](dashboard_preview.png)
+
 ### ✅ Task 4 – Sentiment Analysis
 Performed NLP-based sentiment classification on Twitter data using Logistic Regression and TF-IDF.
